@@ -1,2 +1,3 @@
 This is a simple text file, text is ok. file updating.
 some more contents added. some updates pending.
+Updating directly on remote repo.
